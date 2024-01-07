@@ -1,8 +1,7 @@
 # Fractal-Metodo-Mandelbrot-Python
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Media/1.png" alt="Productos" style="width: 50%;">
-</div>
+![Productos](Media/logo.png){: style="display: block; margin: 0 auto;"}
+
 
 ## Descripción
 Es la generación de un fractal con el método de Mandelbroc usando Python y su librería Pygame. Se genera especificamente la siguiente ecuación:
