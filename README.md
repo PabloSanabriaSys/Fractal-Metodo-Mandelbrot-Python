@@ -1,6 +1,9 @@
 # Fractal-Metodo-Mandelbrot-Python
 
-![Productos](Media/logo.png){: style="display: block; margin: 0 auto;"}
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="Media/logo.png" alt="Productos" style="width: 50%; margin: auto;">
+</div>
+
 
 
 ## Descripción
